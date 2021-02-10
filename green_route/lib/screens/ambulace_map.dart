@@ -297,10 +297,10 @@ class _AmbulanceMapState extends State<AmbulanceMap> {
           Positioned(
             width: 60,
             height: 60,
-            bottom: 100,
+            bottom: 25,
             right: 17,
             child: RoundButton(
-              btn_color: Colors.black,
+              btn_color: Colors.blue,
               onPressed: () async {
                 while (i < polylineCoordinates.length) {
                   setState(() {
@@ -334,8 +334,9 @@ class _AmbulanceMapState extends State<AmbulanceMap> {
                 }
               },
               btn_icon: Icon(
-                Icons.brightness_1,
+                Icons.directions_car_rounded,
                 color: Colors.white,
+                size: 30,
               ),
             ),
           )
