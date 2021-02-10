@@ -2,7 +2,7 @@
 
 <div align= "center">
 
-<img src="App Icon.png" width=250px height=274px/>
+<img src="Screenshots\App Icon.png" width=250px height=274px/>
 <br>
 
 [![](https://img.shields.io/badge/Made_with-Flutter-red?style=for-the-badge&logo=flutter)](https://flutter.dev/)
