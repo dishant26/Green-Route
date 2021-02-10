@@ -1,0 +1,28 @@
+cupertino_icons: ^1.0.0
+cloud_firestore: ^0.16.0
+firebase_core: ^0.7.0
+firebase_auth: ^0.20.0+1
+provider: ^4.3.3
+google_sign_in: ^4.5.9
+rxdart: ^0.25.0
+font_awesome: ^5.10.1  
+google_maps_flutter:
+path_provider: ^1.6.27
+material_floating_search_bar: ^0.2.6
+popup_menu: ^1.0.5
+rflutter_alert: ^1.1.0
+geolocator: ^6.1.14
+google_map_polyline:
+location_permissions: ^3.0.0+1
+permission: ^0.1.7
+firebase_analytics: ^7.0.1
+image_picker: ^0.6.7+22
+firebase_ml_vision: ^0.10.0
+http: ^0.12.2
+connectivity: ^2.0.2
+simple_search_bar: ^0.1.7
+outline_material_icons: ^0.1.1
+brand_colors: ^0.0.3
+flutter_polyline_points: ^0.2.4
+firebase_messaging: 
+audioplayers: ^0.17.3
