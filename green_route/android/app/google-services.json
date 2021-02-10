@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1024595389851",
+    "project_id": "ambulance-gmaps",
+    "storage_bucket": "ambulance-gmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024595389851:android:f50017d960d044ac3c853e",
+        "android_client_info": {
+          "package_name": "com.example.ambulance_gmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024595389851-0v0p7hb35ou1k03b3nuk103jjj1b67sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambulance_gmaps",
+            "certificate_hash": "92e846c7705ca7498f3b059bcc262ee93de617c6"
+          }
+        },
+        {
+          "client_id": "1024595389851-bqru2hjp2bh8nmb44506qn2uopo4vpbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambulance_gmaps",
+            "certificate_hash": "1241f4404fbf1c49d1219520454082d5325f054d"
+          }
+        },
+        {
+          "client_id": "1024595389851-evhl3hp6mo25h2ntrbl274c2pogp2huf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambulance_gmaps",
+            "certificate_hash": "47de616f02f2bdda71f31874a820272e4c10e583"
+          }
+        },
+        {
+          "client_id": "1024595389851-kadhiccu8h7qodcc49uf4nndsvs9bafb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Pb-nMD7fZ7ec91H2d-NJUQcpKB3bqGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024595389851-kadhiccu8h7qodcc49uf4nndsvs9bafb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024595389851-4ns6uk93skmm2aef1mref8mrrl2ablm7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anish.ambulanceGmaps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024595389851:android:344a8d9513b4bdcd3c853e",
+        "android_client_info": {
+          "package_name": "com.example.green_route"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024595389851-is9v226eglp06u0h6bvtsle7qo1bntvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.green_route",
+            "certificate_hash": "92e846c7705ca7498f3b059bcc262ee93de617c6"
+          }
+        },
+        {
+          "client_id": "1024595389851-kadhiccu8h7qodcc49uf4nndsvs9bafb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Pb-nMD7fZ7ec91H2d-NJUQcpKB3bqGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024595389851-kadhiccu8h7qodcc49uf4nndsvs9bafb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024595389851-4ns6uk93skmm2aef1mref8mrrl2ablm7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anish.ambulanceGmaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
