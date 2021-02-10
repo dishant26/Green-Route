@@ -63,3 +63,7 @@ We also partner with Google Ventures and Google Capital to access their data bas
 * Node.js
 * Firebase ML Vison
 * Libraries: Available in [requirements.txt](https://github.com/dishant26/Green-Route/blob/main/requirements.txt)
+
+---
+
+<h3 align="center"><b>Developed by Team Glasses</b></h3>
