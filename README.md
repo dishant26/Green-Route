@@ -44,10 +44,13 @@ We also partner with Google Ventures and Google Capital to access their data bas
 
 <br>
 
-
-<img src="Screenshots\Screenshot_20210207-161344.jpg" width=310px height=672px/> <img src="Screenshots\Screenshot_20210207-161316.jpg" width=310px height=672px/>
+<div align="center">
+<img src="Screenshots\Screenshot_20210207-161344.jpg" width=310px height=672px/> 
+<br>
+<img src="Screenshots\Screenshot_20210207-161316.jpg" width=310px height=672px/>
 <br>
 <img src="Screenshots\Screenshot_20210207-161251.jpg" width=310px height=672px/>
+</div>
 
 ---
 <br>
@@ -59,4 +62,4 @@ We also partner with Google Ventures and Google Capital to access their data bas
 * Firebase
 * Node.js
 * Firebase ML Vison
-* Libraries: Available in [requirements.txt] ()
+* Libraries: Available in [requirements.txt](https://github.com/dishant26/Green-Route/blob/main/requirements.txt)
