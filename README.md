@@ -17,7 +17,7 @@
 
 ---
 
-<b>Submission for Electrothon Hackathon 2020.</b>
+<b>Submission for Electrothon Hackathon 2021.</b>
 
 <h2>About:</h2>
 
